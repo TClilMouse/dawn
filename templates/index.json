@@ -3,17 +3,11 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand"
-          }
-        },
-        "button": {
+        "610f2ebf-bedf-4480-98aa-30cbae5a965c": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -22,8 +16,7 @@
         }
       },
       "block_order": [
-        "heading",
-        "button"
+        "610f2ebf-bedf-4480-98aa-30cbae5a965c"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/cal7school_1baea5f0-7b8d-4a7e-a821-87c32ba0e23d.jpg",
