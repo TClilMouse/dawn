@@ -221,6 +221,46 @@
         "image_padding": false,
         "show_view_all": false
       }
+    },
+    "1629161730287acbef": {
+      "type": "image-banner",
+      "blocks": {
+        "1629161730287acbef-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner"
+          }
+        },
+        "1629161730287acbef-1": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template."
+          }
+        },
+        "1629161730287acbef-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1629161730287acbef-0",
+        "1629161730287acbef-1",
+        "1629161730287acbef-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/cal7_pinkday_banner_b5e2147d-e4b2-4e38-a95f-81bbccbf7af3.jpg",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": true,
+        "adapt_height_first_image": false
+      }
     }
   },
   "order": [
@@ -230,6 +270,7 @@
     "1629161552f3a1956c",
     "16291616453273b145",
     "1629161677ec3e44f4",
-    "16291617051519b274"
+    "16291617051519b274",
+    "1629161730287acbef"
   ]
 }
