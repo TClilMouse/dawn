@@ -98,7 +98,7 @@
           "settings": {
             "video_url": "https:\/\/www.youtube.com\/watch?v=-G4iCzfhGLY&t=31s",
             "description": "Describe the video for customers using screen readers",
-            "image_padding": false
+            "image_padding": true
           }
         }
       },
