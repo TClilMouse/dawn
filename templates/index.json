@@ -2,26 +2,10 @@
   "sections": {
     "image_banner": {
       "type": "image-banner",
-      "blocks": {
-        "610f2ebf-bedf-4480-98aa-30cbae5a965c": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SHOP NOW",
-            "button_link_1": "https:\/\/www.cal-7.com\/pages\/skateboard",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "610f2ebf-bedf-4480-98aa-30cbae5a965c"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/cal7school_1baea5f0-7b8d-4a7e-a821-87c32ba0e23d.jpg",
-        "desktop_text_box_position": "center",
-        "color_scheme": "background-2",
+        "desktop_text_box_position": "flex-end",
+        "color_scheme": "background-1",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
