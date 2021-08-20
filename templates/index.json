@@ -47,7 +47,7 @@
         "8389b26b-23bf-475a-960f-54353d7f1a01": {
           "type": "heading",
           "settings": {
-            "heading": "Griptape"
+            "heading": "GRIPTAPE"
           }
         },
         "bef4c5e0-e525-43e6-8275-547fb52f9114": {
@@ -70,6 +70,7 @@
         "335cd9ea-8045-4797-958d-c74147b6e197"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/griptape.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
