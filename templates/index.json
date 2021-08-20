@@ -117,22 +117,10 @@
         "16291617051519b274-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "trucks"
           }
         },
         "16291617051519b274-1": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "16291617051519b274-2": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "1e418b76-ff3c-4f52-a344-88be98770a4d": {
           "type": "featured_collection",
           "settings": {
             "collection": ""
@@ -141,15 +129,13 @@
       },
       "block_order": [
         "16291617051519b274-0",
-        "16291617051519b274-1",
-        "16291617051519b274-2",
-        "1e418b76-ff3c-4f52-a344-88be98770a4d"
+        "16291617051519b274-1"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "",
         "image_ratio": "square",
         "color_scheme": "background-1",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "image_padding": false,
         "show_view_all": false
       }
@@ -197,14 +183,14 @@
         "2afd8193-49be-44c0-8805-3ae228bed12a"
       ],
       "settings": {
-        "title": "",
+        "title": "OUR TEAM RIDERS",
         "image_width": "half",
         "image_ratio": "circle",
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false
+        "swipe_on_mobile": true
       }
     },
     "1629161730287acbef": {
