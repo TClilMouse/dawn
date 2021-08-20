@@ -3,33 +3,19 @@
     "image_banner": {
       "type": "image-banner",
       "blocks": {
-        "122db8ea-0c88-4e75-a113-7cd4fd31a321": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
-        "d99d9493-5553-41f6-b2c7-e56397382e64": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
         "db3afe17-059c-426c-bb41-c3f2f416f7b3": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
+            "button_label_1": "COMPLETES",
+            "button_link_1": "https:\/\/www.cal-7.com\/collections\/completes\/Filter-Deck-Size_7-75",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
+            "button_label_2": "CRUISERS",
+            "button_link_2": "https:\/\/www.cal-7.com\/pages\/cruiser",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "122db8ea-0c88-4e75-a113-7cd4fd31a321",
-        "d99d9493-5553-41f6-b2c7-e56397382e64",
         "db3afe17-059c-426c-bb41-c3f2f416f7b3"
       ],
       "settings": {
