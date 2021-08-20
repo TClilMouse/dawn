@@ -35,7 +35,7 @@
         "show_view_all": false,
         "swipe_on_mobile": true,
         "image_ratio": "square",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "add_image_padding": false,
         "show_image_outline": false,
         "show_vendor": false
@@ -47,40 +47,6 @@
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
-      }
-    },
-    "1629495523eb661013": {
-      "type": "multicolumn",
-      "blocks": {
-        "1629495523eb661013-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/cal7_pinkday_banner_e90a520c-3762-4884-b369-dd3c52c3b17b.jpg",
-            "title": "",
-            "text": ""
-          }
-        },
-        "1629495523eb661013-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "1629495523eb661013-1",
-        "1629495523eb661013-2"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "swipe_on_mobile": false
       }
     },
     "1629161552f3a1956c": {
@@ -241,7 +207,6 @@
     "image_banner",
     "featured_products",
     "image_text",
-    "1629495523eb661013",
     "1629161552f3a1956c",
     "16291616453273b145",
     "1629161677ec3e44f4",
