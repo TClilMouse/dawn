@@ -203,12 +203,6 @@
     "1629161730287acbef": {
       "type": "image-banner",
       "blocks": {
-        "1629161730287acbef-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner"
-          }
-        },
         "1629161730287acbef-1": {
           "type": "text",
           "settings": {
@@ -218,22 +212,21 @@
         "1629161730287acbef-2": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Button label",
+            "button_label_1": "SHOP NOW",
             "button_link_1": "",
             "button_style_secondary_1": false,
-            "button_label_2": "Button label",
+            "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "1629161730287acbef-0",
         "1629161730287acbef-1",
         "1629161730287acbef-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cal7_pinkday_banner_b5e2147d-e4b2-4e38-a95f-81bbccbf7af3.jpg",
+        "image": "shopify:\/\/shop_images\/banner_1ds_49fd0c72-e80a-477f-b252-2f0319647325.jpg",
         "desktop_text_box_position": "flex-end",
         "color_scheme": "background-1",
         "stack_images_on_mobile": true,
