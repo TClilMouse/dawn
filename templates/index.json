@@ -184,8 +184,9 @@
         "2afd8193-49be-44c0-8805-3ae228bed12a": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "image": "shopify:\/\/shop_images\/CAL-7_SKATE_SLC_alamoreaux-25.jpg",
+            "title": "John Doe",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a <br\/><a href=\"https:\/\/cal-7.myshopify.com\/collections\" title=\"All collections\">IG LINK.<\/a><br\/><\/p>"
           }
         }
       },
