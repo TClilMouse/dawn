@@ -43,6 +43,32 @@
     },
     "image_text": {
       "type": "image-with-text",
+      "blocks": {
+        "8389b26b-23bf-475a-960f-54353d7f1a01": {
+          "type": "heading",
+          "settings": {
+            "heading": "GRIPTAPE"
+          }
+        },
+        "bef4c5e0-e525-43e6-8275-547fb52f9114": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "335cd9ea-8045-4797-958d-c74147b6e197": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "8389b26b-23bf-475a-960f-54353d7f1a01",
+        "bef4c5e0-e525-43e6-8275-547fb52f9114",
+        "335cd9ea-8045-4797-958d-c74147b6e197"
+      ],
       "settings": {
         "height": "adapt",
         "color_scheme": "background-1",
@@ -199,37 +225,6 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
-    },
-    "1629496006877a1ba1": {
-      "type": "collage",
-      "blocks": {
-        "1629496006877a1ba1-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "secondary_background": false,
-            "second_image": false,
-            "image_padding": false
-          }
-        },
-        "1629496006877a1ba1-2": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "image_padding": false,
-            "color_scheme": "background-1"
-          }
-        }
-      },
-      "block_order": [
-        "1629496006877a1ba1-1",
-        "1629496006877a1ba1-2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage"
-      }
     }
   },
   "order": [
@@ -240,7 +235,6 @@
     "16291616453273b145",
     "1629161677ec3e44f4",
     "16291617051519b274",
-    "1629161730287acbef",
-    "1629496006877a1ba1"
+    "1629161730287acbef"
   ]
 }
