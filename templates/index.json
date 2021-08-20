@@ -29,11 +29,11 @@
     "featured_products": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "collection": "",
+        "title": "",
+        "collection": "time-vortex",
         "products_to_show": 4,
-        "show_view_all": true,
-        "swipe_on_mobile": false,
+        "show_view_all": false,
+        "swipe_on_mobile": true,
         "image_ratio": "adapt",
         "show_secondary_image": false,
         "add_image_padding": false,
