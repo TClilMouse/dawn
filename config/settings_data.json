@@ -4,7 +4,11 @@
     "type_body_font": "dosis_n4",
     "sale_badge_color_scheme": "accent-1",
     "sold_out_badge_color_scheme": "inverse",
-    "accent_icons": "text",
+    "accent_icons": "accent-2",
+    "social_facebook_link": "https:\/\/www.facebook.com\/Cal7Skate\/",
+    "social_pinterest_link": "https:\/\/www.pinterest.ru\/cal7skate\/_created\/",
+    "social_instagram_link": "https:\/\/www.instagram.com\/cal7skate\/",
+    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCe77Kx1VOrkP4IuxjgW5jfQ",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -32,7 +36,7 @@
           "logo_position": "top-center",
           "menu": "main-menu",
           "show_line_separator": false,
-          "enable_sticky_header": false
+          "enable_sticky_header": true
         }
       },
       "footer": {
