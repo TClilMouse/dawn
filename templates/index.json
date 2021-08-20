@@ -114,6 +114,12 @@
     "16291617051519b274": {
       "type": "collection-list",
       "blocks": {
+        "f4b95b98-e8ec-4460-a731-d4c6a5051f1c": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "apparel"
+          }
+        },
         "16291617051519b274-0": {
           "type": "featured_collection",
           "settings": {
@@ -123,11 +129,12 @@
         "16291617051519b274-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "tools"
           }
         }
       },
       "block_order": [
+        "f4b95b98-e8ec-4460-a731-d4c6a5051f1c",
         "16291617051519b274-0",
         "16291617051519b274-1"
       ],
