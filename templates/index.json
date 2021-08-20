@@ -72,14 +72,12 @@
     },
     "16291616453273b145": {
       "type": "custom-liquid",
-      "disabled": true,
       "settings": {
         "custom_liquid": ""
       }
     },
     "1629161677ec3e44f4": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "1629161677ec3e44f4-0": {
           "type": "column",
@@ -201,6 +199,37 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "1629496006877a1ba1": {
+      "type": "collage",
+      "blocks": {
+        "1629496006877a1ba1-1": {
+          "type": "product",
+          "settings": {
+            "product": "",
+            "secondary_background": false,
+            "second_image": false,
+            "image_padding": false
+          }
+        },
+        "1629496006877a1ba1-2": {
+          "type": "collection",
+          "settings": {
+            "collection": "",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "1629496006877a1ba1-1",
+        "1629496006877a1ba1-2"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
@@ -211,6 +240,7 @@
     "16291616453273b145",
     "1629161677ec3e44f4",
     "16291617051519b274",
-    "1629161730287acbef"
+    "1629161730287acbef",
+    "1629496006877a1ba1"
   ]
 }
