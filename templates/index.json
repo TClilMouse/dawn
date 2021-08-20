@@ -19,10 +19,9 @@
         "db3afe17-059c-426c-bb41-c3f2f416f7b3"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cal7school_1baea5f0-7b8d-4a7e-a821-87c32ba0e23d.jpg",
-        "image_2": "shopify:\/\/shop_images\/cal7_4thofjuly_banner_916155a7-08e3-4a8d-9a88-04dbbdca5f21.jpg",
-        "desktop_text_box_position": "flex-end",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/idrathernew.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-2",
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
