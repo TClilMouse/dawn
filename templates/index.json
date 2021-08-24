@@ -121,7 +121,7 @@
         "335cd9ea-8045-4797-958d-c74147b6e197"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/griptape.jpg",
+        "image": "shopify:\/\/shop_images\/CAL-7_SKATE_SLC_alamoreaux-23.jpg",
         "height": "adapt",
         "color_scheme": "background-1",
         "layout": "image_first"
@@ -168,29 +168,6 @@
     },
     "1629161730287acbef": {
       "type": "image-banner",
-      "blocks": {
-        "1629161730287acbef-1": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template."
-          }
-        },
-        "1629161730287acbef-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "SHOP NOW",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "1629161730287acbef-1",
-        "1629161730287acbef-2"
-      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/banner_1ds_49fd0c72-e80a-477f-b252-2f0319647325.jpg",
         "desktop_text_box_position": "flex-end",
