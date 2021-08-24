@@ -1,7 +1,7 @@
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
-    "colors_accent_1": "#4c5d6b",
+    "colors_accent_1": "#000000",
     "colors_accent_2": "#a0b0b4",
     "colors_text": "#364958",
     "colors_outline_button_labels": "#4c5d6b",
@@ -17,6 +17,8 @@
     "social_pinterest_link": "https:\/\/www.pinterest.ru\/cal7skate\/_created\/",
     "social_instagram_link": "https:\/\/www.instagram.com\/cal7skate\/",
     "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UCe77Kx1VOrkP4IuxjgW5jfQ",
+    "checkout_accent_color": "#000000",
+    "checkout_button_color": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
