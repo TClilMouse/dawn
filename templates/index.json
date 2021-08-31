@@ -176,6 +176,48 @@
         "adapt_height_first_image": false
       }
     },
+    "1630423057558648e3": {
+      "type": "multicolumn",
+      "disabled": true,
+      "blocks": {
+        "1630423057558648e3-0": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1630423057558648e3-1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        },
+        "1630423057558648e3-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "1630423057558648e3-0",
+        "1630423057558648e3-1",
+        "1630423057558648e3-2"
+      ],
+      "settings": {
+        "title": "Multicolumn",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "swipe_on_mobile": false
+      }
+    },
     "1629161677ec3e44f4": {
       "type": "multicolumn",
       "blocks": {
@@ -228,6 +270,15 @@
         "button_link": "",
         "swipe_on_mobile": true
       }
+    },
+    "163042320059cfd5d9": {
+      "type": "video",
+      "settings": {
+        "heading": "Cal 7 Team",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=-G4iCzfhGLY&list=TLGGX4y4D98Tl2QzMTA4MjAyMQ&t=5s",
+        "description": "",
+        "full_width": false
+      }
     }
   },
   "order": [
@@ -238,6 +289,8 @@
     "image_text",
     "1629496034bac42f44",
     "1629161730287acbef",
-    "1629161677ec3e44f4"
+    "1630423057558648e3",
+    "1629161677ec3e44f4",
+    "163042320059cfd5d9"
   ]
 }
