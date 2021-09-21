@@ -53,15 +53,6 @@
           "type": "share",
           "settings": {
           }
-        },
-        "e8c52470-0e99-4826-b580-47ce661a5a3f": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Warranty",
-            "content": "",
-            "page": "cal-7-warranty",
-            "icon": "check_mark"
-          }
         }
       },
       "block_order": [
@@ -73,8 +64,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
-        "share",
-        "e8c52470-0e99-4826-b580-47ce661a5a3f"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
