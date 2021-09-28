@@ -166,6 +166,12 @@
         "layout": "text_first"
       }
     },
+    "1632792364f4b6b9eb": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<style>.video-full-width { position: relative; padding-bottom: 56.25%; height: 0;}\n.video-full-width iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}<\/style>\n<div class=\"video-full-width\"><iframe src=\"https:\/\/www.youtube.com\/embed\/-G4iCzfhGLY?controls=0&amp;showinfo=0&amp;rel=0&amp;autoplay=1&amp;loop=1&amp;mute=1&amp;playlist=-G4iCzfhGLY\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\" \"><\/iframe><\/div>"
+      }
+    },
     "1629161730287acbef": {
       "type": "image-banner",
       "settings": {
@@ -281,12 +287,6 @@
         "description": "",
         "full_width": false
       }
-    },
-    "1632792364f4b6b9eb": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<style>.video-full-width { position: relative; padding-bottom: 56.25%; height: 0;}\n.video-full-width iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}<\/style>\n<div class=\"video-full-width\"><iframe src=\"https:\/\/www.youtube.com\/embed\/-G4iCzfhGLY?controls=0&amp;showinfo=0&amp;rel=0&amp;autoplay=1&amp;loop=1&amp;mute=1&amp;playlist=-G4iCzfhGLY\" width=\"1280\" height=\"720\" frameborder=\"0\" allowfullscreen=\" \"><\/iframe><\/div>"
-      }
     }
   },
   "order": [
@@ -296,10 +296,10 @@
     "image_text",
     "16291617051519b274",
     "1629496034bac42f44",
+    "1632792364f4b6b9eb",
     "1629161730287acbef",
     "1630423057558648e3",
     "1629161677ec3e44f4",
-    "163042320059cfd5d9",
-    "1632792364f4b6b9eb"
+    "163042320059cfd5d9"
   ]
 }
